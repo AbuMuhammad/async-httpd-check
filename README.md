@@ -11,11 +11,11 @@ Async HTTP server checker written in Rust.
 
 1. Clone the repository:
    ```sh
-   git clone https://github.com/YOUR_USERNAME/httpd-check-rs.git
+   git clone https://github.com/abumuhammad/async-httpd-check.git
    ```
 2. Install dependencies:
    ```sh
-   cd httpd-check-rs
+   cd async-httpd-check
    cargo build
    ```
 3. Run the project:
